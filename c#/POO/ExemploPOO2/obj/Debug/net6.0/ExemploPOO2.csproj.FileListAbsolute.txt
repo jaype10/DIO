@@ -1,0 +1,15 @@
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\bin\Debug\net6.0\ExemploPOO2.exe
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\bin\Debug\net6.0\ExemploPOO2.deps.json
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\bin\Debug\net6.0\ExemploPOO2.runtimeconfig.json
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\bin\Debug\net6.0\ExemploPOO2.dll
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\bin\Debug\net6.0\ref\ExemploPOO2.dll
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\bin\Debug\net6.0\ExemploPOO2.pdb
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\obj\Debug\net6.0\ExemploPOO2.csproj.AssemblyReference.cache
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\obj\Debug\net6.0\ExemploPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\obj\Debug\net6.0\ExemploPOO2.AssemblyInfoInputs.cache
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\obj\Debug\net6.0\ExemploPOO2.AssemblyInfo.cs
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\obj\Debug\net6.0\ExemploPOO2.csproj.CoreCompileInputs.cache
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\obj\Debug\net6.0\ExemploPOO2.dll
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\obj\Debug\net6.0\ref\ExemploPOO2.dll
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\obj\Debug\net6.0\ExemploPOO2.pdb
+C:\Users\jaype\Documents\Digital Innovation One\c#\POO\ExemploPOO2\obj\Debug\net6.0\ExemploPOO2.genruntimeconfig.cache
